@@ -11,7 +11,7 @@ pip2 install mechanize
 
 git clone https://github.com/Mr-x-virus404/random
 cd random
-python2 Old py
+python2 Old.py
 
 username: KAMAL
 password: VAU
