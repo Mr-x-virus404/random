@@ -1,6 +1,6 @@
-# Bd Random I'd Hack
+# Bd Random I'd Hack command👇👇
 
-#command
+
 pkg update && pkg upgrade
 pkg install python
 pkg install python2
