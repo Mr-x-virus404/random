@@ -9,10 +9,9 @@ pkg install pip
 pkg install pip2
 pip2 install requests
 pip2 install mechanize
-
 git clone https://github.com/Mr-x-virus404/random
 cd random
 python2 Old py
 
-username: KAMAL
-password: VAU
+😚username: KAMAL
+😙password: VAU
